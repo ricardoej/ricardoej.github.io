@@ -1,0 +1,74 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 28px;
+    margin: 0;
+}
+
+header p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+/* Estilo para as seções de conteúdo */
+section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+/* Estilo para as listas de habilidades e projetos */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+/* Estilo para links em projetos */
+ul li a {
+    text-decoration: none;
+    color: #3498db;
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilo para links no rodapé */
+footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilo para as datas */
+.item p:last-child {
+    font-weight: bold;
+}
